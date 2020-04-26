@@ -1,0 +1,9 @@
+name: Repair
+version: 1.0
+author: Zach_FR
+main: Repair.Main
+description: Repair item with this plugin
+
+commands:
+  repair:
+    description: Main Command
